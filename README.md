@@ -13,6 +13,7 @@ This mini project uses real job posting data to identify the most in-demand tech
 - Visualizations include:
   - A bar chart of the top 5 skills
   - A word cloud from job posting data
+  - Heat map for the patterns across different roles
 
 ## 📂 Files Included:
 - `canada_tech_jobs_updated.csv`

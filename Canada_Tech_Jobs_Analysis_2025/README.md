@@ -60,5 +60,5 @@ I’m learning by doing — this mini project helped me apply real-world tools l
 ---
 
 📬 **Let’s connect**  
-🔗 [https://www.linkedin.com] (https://www.linkedin.com/in/ramaramu/)
+🔗 https://www.linkedin.com/in/ramaramu/
 💡 *Built with curiosity, code, and a little coffee ☕️*

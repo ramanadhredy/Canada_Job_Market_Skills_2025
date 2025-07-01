@@ -10,6 +10,7 @@ This mini project uses real job posting data to identify the most in-demand tech
 ## 📈 Key Findings:
 - **Python, SQL, AWS, JavaScript, and Docker** are currently the top-requested tech skills.
 - The trend shows a growing need for professionals skilled in data analytics, cloud, and DevOps.
+  
   📊 Visualizations include:
   - Bar Chart –> Highlights the top 5 most frequent tech skills
   - Word Cloud –> Shows popular keywords from job descriptions

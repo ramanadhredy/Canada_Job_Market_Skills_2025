@@ -10,10 +10,13 @@ This mini project uses real job posting data to identify the most in-demand tech
 ## 📈 Key Findings:
 - **Python, SQL, AWS, JavaScript, and Docker** are currently the top-requested tech skills.
 - The trend shows a growing need for professionals skilled in data analytics, cloud, and DevOps.
-- Visualizations include:
-  - A bar chart of the top 5 skills
-  - A word cloud from job posting data
-  - Heat map for the patterns across different roles
+  📊 Visualizations include:
+  - Bar Chart –> Highlights the top 5 most frequent tech skills
+  - Word Cloud –> Shows popular keywords from job descriptions
+  - Heat Map –> Reveals which skills often appear together in different roles
+  - Pie Chart –> Shows job distribution by city (Toronto leads)
+  - Line Chart –> Displays the timing of job postings (peak around June 21)
+  - Box Plot –> Shows most roles demand exactly 3 key tech skills
 
 ## 📂 Files Included:
 - `canada_tech_jobs_updated.csv`

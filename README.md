@@ -15,7 +15,7 @@ This mini project uses real job posting data to identify the most in-demand tech
   - Word Cloud –> Shows popular keywords from job descriptions
   - Heat Map –> Reveals which skills often appear together in different roles
   - Pie Chart –> Shows job distribution by city (Toronto leads)
-  - Line Chart –> Displays the timing of job postings (peak around June 21)
+  - Line Chart –> Displays the timing of job postings
   - Box Plot –> Shows most roles demand exactly 3 key tech skills
 
 ## 📂 Files Included:

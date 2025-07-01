@@ -49,7 +49,7 @@ To uncover insights from job posting data, such as:
 
 - `Canada_Tech_Jobs_Analysis_2025.pbix` → The Power BI dashboard  
 - `Canada_Tech_Jobs.csv` → Clean job postings dataset  
-- `dashboard_preview.png` → Screenshot of the dashboard  
+- `dashboard_preview.jpg` → Screenshot of the dashboard  
 
 ---
 
